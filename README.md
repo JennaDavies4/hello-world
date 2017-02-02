@@ -1,2 +1,3 @@
 # hello-world
-trial repository 
+I'm Jenna, learning to code. 
+Love all things food, travel and skiing.
